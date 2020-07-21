@@ -7,3 +7,4 @@ LabVIEW Study
 * [Global Variable](https://youtu.be/Nt94BDJOsmQ)
 * [Notifier](https://youtu.be/0eZQUSndxvo)
 * [Machine Learning Toolkit](http://zone.ni.com/reference/en-XX/help/377059B-01/)
+* [Object detection Example](https://forums.ni.com/t5/Example-Code/NIWeek-2019-Deep-Learning-People-Detector-Using-TensorFlow-Model/ta-p/3937335?profile.language=ko)
